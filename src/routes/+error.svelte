@@ -3,7 +3,7 @@
 </script>
 
 <main class="page">
-	<h1>Error {page.status}</h1>
-	<p>{page.error?.message ?? "Something went wrong."}</p>
-	<a href="/">Go back home</a>
+	<h1>Status {page.status} — There was a problem</h1>
+	<p>{page.error?.message ?? "An unexpected issue occurred while loading Amini's platform."}</p>
+	<a href="/">Return to Amini Home</a>
 </main>

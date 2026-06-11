@@ -4,16 +4,16 @@
 
 <section class="pt-32 pb-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto flex flex-col items-center text-center">
   <h1 class="text-5xl md:text-7xl font-bold tracking-tight text-gray-900 max-w-4xl mb-8 leading-[1.1]">
-    Manage your meetings with your <span class="text-[#0099ff]">AI personal assistant</span>
+    Launch production-ready <span class="text-[#0099ff]">architecture and AI systems</span> with senior engineers
   </h1>
 
   <div class="flex flex-col sm:flex-row gap-4 mb-16">
     <button class="bg-[#0099ff] text-white px-8 py-3 rounded-full text-lg font-medium hover:bg-blue-600 transition-colors">
-      Get started
+      Start your technical audit
     </button>
     <button class="bg-white text-gray-900 border border-gray-200 px-8 py-3 rounded-full text-lg font-medium hover:bg-gray-50 transition-colors flex items-center gap-2">
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-play-circle"><circle cx="12" cy="12" r="10"/><polygon points="10 8 16 12 10 16 10 8"/></svg>
-      Request a demo
+      Schedule a call
     </button>
   </div>
 
@@ -26,7 +26,7 @@
         <div class="w-3 h-3 rounded-full bg-yellow-400"></div>
         <div class="w-3 h-3 rounded-full bg-green-400"></div>
       </div>
-      <div class="mx-auto text-xs text-gray-400 font-medium">Week Kickoff</div>
+      <div class="mx-auto text-xs text-gray-400 font-medium">Solution Design Workshop</div>
     </div>
     
     <!-- App Content -->
@@ -46,32 +46,32 @@
       <!-- Main Content -->
       <div class="flex-1 p-8 bg-white">
         <div class="max-w-3xl mx-auto">
-           <h2 class="text-2xl font-bold mb-6">Week Kickoff</h2>
+           <h2 class="text-2xl font-bold mb-6">Solution Design Workshop</h2>
            
            <div class="prose prose-sm max-w-none text-gray-600 space-y-4">
-             <p class="text-gray-900 font-medium">Summary</p>
-             <p>Strong MRR growth of 12.5%, hitting our monthly goal. Month-over-month user growth successful but free plan discontinuation. Three month strategy focus on user reaction, product launch, and establishing sustainable growth channels.</p>
+             <p class="text-gray-900 font-medium">Project Overview</p>
+             <p>Amini guided infrastructure upgrades for improved scale, cloud migration, and integrated AI—cutting time-to-production by 6 weeks. Stakeholder feedback highlights clear delivery and sustained knowledge transfer. Next: Rollout of automation modules via proprietary platform.</p>
              
              <ul class="list-disc pl-5 space-y-2">
-               <li>MRR growth reaches 12.5% ($9.2M) despite forex impact</li>
-               <li>Decision to phase out Personal plan and potentially Pro plan to focus on Business-only model</li>
-               <li>Weekly metrics show growing signups with 72% conversion rate</li>
+               <li>Technical debt audit identified high-impact upgrade paths</li>
+               <li>Rapid PoC for Zero Trust and Cloudflare SASE completed; enterprise migration scheduled</li>
+               <li>Overall build velocity up 18% due to embedded senior involvement</li>
              </ul>
 
              <div class="mt-8 p-4 bg-gray-50 rounded-lg border border-gray-100">
                <div class="flex justify-between items-center mb-4">
-                 <h3 class="font-medium text-gray-900">Actions</h3>
-                 <button class="text-xs text-gray-500">Send email</button>
+                 <h3 class="font-medium text-gray-900">Next Steps</h3>
+                 <button class="text-xs text-gray-500">Share summary</button>
                </div>
                <div class="space-y-3">
                  <div class="flex items-center gap-3">
                    <div class="w-4 h-4 border border-gray-300 rounded"></div>
-                   <span class="text-sm">Product tier changes - Important update</span>
+                   <span class="text-sm">Initiate rollout for Platform X modules</span>
                    <div class="ml-auto w-6 h-6 rounded-full bg-gray-200"></div>
                  </div>
                  <div class="flex items-center gap-3">
                     <div class="w-4 h-4 border border-gray-300 rounded"></div>
-                    <span class="text-sm">Wanted to share some important changes we're making to our product tiers</span>
+                    <span class="text-sm">Plan AI readiness workshop with internal team</span>
                     <div class="ml-auto w-6 h-6 rounded-full bg-gray-200"></div>
                  </div>
                </div>
@@ -84,17 +84,17 @@
 
   <!-- Trusted By -->
   <div class="mt-20 relative w-full max-w-5xl">
-    <p class="text-sm text-gray-500 mb-6 text-left ml-4">Trusted by teams at</p>
+    <p class="text-sm text-gray-500 mb-6 text-left ml-4">Chosen by forward-thinking engineering teams</p>
     <div class="flex flex-wrap justify-between items-center gap-8 opacity-50 grayscale">
        <!-- Simple text placeholders for logos for now, or SVGs if I had them. Using text for speed/accuracy of layout first. -->
-       <span class="font-bold text-xl">Canva</span>
-       <span class="font-bold text-xl">duolingo</span>
-       <span class="font-bold text-xl">MERCURY</span>
-       <span class="font-bold text-xl">beam</span>
-       <span class="font-bold text-xl">shopify</span>
-       <span class="font-bold text-xl">Spotify</span>
-       <span class="font-bold text-xl">world</span>
-       <span class="font-bold text-xl">Dropbox</span>
+       <span class="font-bold text-xl">SwissRE</span>
+       <span class="font-bold text-xl">Helvetia</span>
+       <span class="font-bold text-xl">PostFinance</span>
+       <span class="font-bold text-xl">Baloise</span>
+       <span class="font-bold text-xl">UBS</span>
+       <span class="font-bold text-xl">FinTechPro</span>
+       <span class="font-bold text-xl">Nestle</span>
+       <span class="font-bold text-xl">Zurich Insurance</span>
     </div>
     
     <!-- Handwritten Note -->
@@ -105,7 +105,7 @@
            <path d="M90,80 L80,70 M90,80 L85,90" stroke-width="2" />
         </svg>
         <p class="font-serif italic text-gray-400 text-sm whitespace-nowrap transform -rotate-6">
-          * These companies have 10+ Amie users
+          * Several of these teams deploy Amini solutions in production
         </p>
       </div>
     </div>

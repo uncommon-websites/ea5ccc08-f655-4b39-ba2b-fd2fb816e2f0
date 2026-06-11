@@ -6,23 +6,23 @@
     <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
       <div>
         <ul class="space-y-3 text-sm font-medium text-gray-900">
-          <li><a href="#" class="hover:text-blue-600">Blog</a></li>
-          <li><a href="#" class="hover:text-blue-600">Our Story</a></li>
-          <li><a href="#" class="hover:text-blue-600">Calendar</a></li>
-          <li><a href="#" class="hover:text-blue-600">Changelog</a></li>
-          <li><a href="#" class="hover:text-blue-600">Tools</a></li>
-          <li><a href="#" class="hover:text-blue-600">Routines</a></li>
-          <li><a href="#" class="hover:text-blue-600">AI Response Generator</a></li>
+          <li><a href="#" class="hover:text-blue-600">Insights</a></li>
+          <li><a href="#" class="hover:text-blue-600">Company</a></li>
+          <li><a href="#" class="hover:text-blue-600">Solutions</a></li>
+          <li><a href="#" class="hover:text-blue-600">Updates</a></li>
+          <li><a href="#" class="hover:text-blue-600">Resources</a></li>
+          <li><a href="#" class="hover:text-blue-600">Workshops</a></li>
+          <li><a href="#" class="hover:text-blue-600">AI Readiness Tool</a></li>
         </ul>
       </div>
       
       <div>
         <ul class="space-y-3 text-sm font-medium text-gray-900">
-          <li><a href="#" class="hover:text-blue-600">Contact us</a></li>
-          <li><a href="#" class="hover:text-blue-600">Download</a></li>
-          <li><a href="#" class="hover:text-blue-600">Affiliates</a></li>
-          <li><a href="#" class="hover:text-blue-600">Reviews</a></li>
-          <li><a href="#" class="hover:text-blue-600">Art</a></li>
+          <li><a href="#" class="hover:text-blue-600">Get in Touch</a></li>
+          <li><a href="#" class="hover:text-blue-600">Case Studies</a></li>
+          <li><a href="#" class="hover:text-blue-600">Partners</a></li>
+          <li><a href="#" class="hover:text-blue-600">Client Voices</a></li>
+          <li><a href="#" class="hover:text-blue-600">Careers</a></li>
         </ul>
       </div>
       
@@ -40,13 +40,13 @@
     </div>
     
     <div class="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-gray-200 text-xs text-gray-400">
-      <div class="mb-4 md:mb-0 font-serif italic">Designed by the beach</div>
+      <div class="mb-4 md:mb-0 font-serif italic">Headquartered in Zurich, engineered globally</div>
       
       <div class="flex gap-6">
         <a href="#" class="hover:text-gray-600">Privacy Policy</a>
-        <a href="#" class="hover:text-gray-600">Terms of use</a>
-        <a href="#" class="hover:text-gray-600">Imprint</a>
-        <span>© Amie 2025</span>
+        <a href="#" class="hover:text-gray-600">Terms of Service</a>
+        <a href="#" class="hover:text-gray-600">Legal Notice</a>
+        <span>© Amini 2025</span>
       </div>
     </div>
   </div>

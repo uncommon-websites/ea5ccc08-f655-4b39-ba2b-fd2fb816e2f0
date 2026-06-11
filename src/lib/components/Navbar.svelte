@@ -14,19 +14,19 @@
           </div>
         </a>
         <div class="hidden md:flex items-center gap-6">
-          <NavLink label="Features" />
-          <NavLink label="Pricing" />
+          <NavLink label="Solutions" />
+          <NavLink label="Engagement" />
         </div>
       </div>
 
       <!-- Right: Actions -->
       <div class="flex items-center gap-4">
-        <NavLink label="Login" />
+        <NavLink label="Client Portal" />
         <a
           href="#"
           class="bg-[#0099ff] text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-blue-600 transition-colors"
         >
-          Get started
+          Talk to an architect
         </a>
       </div>
     </div>
